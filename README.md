@@ -22,7 +22,9 @@ o	Example:- In the below image the square orange selected first(no label orange 
 ![Screenshot](images/solu_c3.PNG)
 
 
+##test case coverage result
 
+![Screenshot](images/coverage.png)
 
 
 
