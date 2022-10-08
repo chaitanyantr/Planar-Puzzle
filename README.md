@@ -11,15 +11,15 @@ o	Example:- In the below image the square orange selected first(no label orange 
 
 ##Configuration -1
 
-![Screenshot](image1.png)
+![Screenshot](solution_c1.PNG)
 
 ##Configuration -2
 
-![Screenshot](image2.png)
+![Screenshot](solution_c2.PNG)
 
 ##Configuration-3
 
-![Screenshot](image3.png)
+![Screenshot](solu_c3.PNG)
 
 
 
