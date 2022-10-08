@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Planar-Puzzle/static/css/main.073c9b0a.css",
+    "main.js": "/Planar-Puzzle/static/js/main.516d0241.js",
+    "static/js/787.bc008c42.chunk.js": "/Planar-Puzzle/static/js/787.bc008c42.chunk.js",
+    "index.html": "/Planar-Puzzle/index.html",
+    "main.073c9b0a.css.map": "/Planar-Puzzle/static/css/main.073c9b0a.css.map",
+    "main.516d0241.js.map": "/Planar-Puzzle/static/js/main.516d0241.js.map",
+    "787.bc008c42.chunk.js.map": "/Planar-Puzzle/static/js/787.bc008c42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.516d0241.js"
+  ]
+}
