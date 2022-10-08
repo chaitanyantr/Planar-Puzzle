@@ -2,7 +2,7 @@
 Design of software systems - Object Oriented Programming - React, javascript,HTML,CSS,Bootstrap,Node js
 
 
-#Sample Game play images
+##Sample Game play images
 •	Select only colored squares 
 •	When color square is selected it can only end in other same color square.
 o	Example:- In the below image the square orange selected first(no label orange square) and extended, then extension ends in other orange square(labeled as 2). Same goes for other colors in table.
