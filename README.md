@@ -2,27 +2,27 @@
 Design of software systems - Object Oriented Programming - React, javascript,HTML,CSS,Bootstrap,Node js
 
 
-##Sample Game play images
+## Sample Game play images
 •	Select only colored squares 
 •	When color square is selected it can only end in other same color square.
 o	Example:- In the below image the square orange selected first(no label orange square) and extended, then extension ends in other orange square(labeled as 2). Same goes for other colors in table.
 •	Reset to clear the extensions and play again.
 •	Solve button checks the solution and display the test – If won the label turns “You Won” as shown in below image(3).
 
-##Configuration -1
+## Configuration -1
 
 ![Screenshot](images/solution_c1.PNG)
 
-##Configuration -2
+## Configuration -2
 
 ![Screenshot](images/solution_c2.PNG)
 
-##Configuration-3
+## Configuration-3
 
 ![Screenshot](images/solu_c3.PNG)
 
 
-##test case coverage result
+## test case coverage result
 
 ![Screenshot](images/coverage.png)
 
@@ -36,7 +36,7 @@ o	Example:- In the below image the square orange selected first(no label orange 
 
 
 
-##Testing Coverage 
+## Testing Coverage 
 To generate the code coverage, launch `npm test -- --coverage` which produces a file that contains a breakdown of
 (Below image is result of coverage for the planarpuzzle code provided in  zip file)
 
